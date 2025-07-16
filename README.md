@@ -8,7 +8,7 @@ A fully animated and interactive **digital clock** built with **HTML**, **CSS**,
 
 👉 [Click here to view the live project](https://digital-clock-phi-lemon.vercel.app/)
 
----
+--- 
 
 ## 🚀 Features
 
